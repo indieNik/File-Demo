@@ -23,7 +23,6 @@ public class ByteStreamDemo {
 				e.printStackTrace();
 			}
 		}
-		//System.out.println(f.getPath());
 		
 		FileOutputStream fos = null;
 		try {
